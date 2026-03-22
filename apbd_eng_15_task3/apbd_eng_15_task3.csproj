@@ -7,4 +7,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="ConsoleUI\" />
+      <Folder Include="Domain\Enums\" />
+      <Folder Include="Domain\Equipment\" />
+      <Folder Include="Services\" />
+    </ItemGroup>
+
 </Project>
